@@ -1,0 +1,79 @@
+[
+  {
+    "id": 1,
+    "countryName": "World",
+    "capital": "No Capital",
+    "population": "Null",
+    "interestingFact": "There are currently 195 countries in the world, comprising 193 United Nations member states and 2 observer states."
+  },
+  {
+    "id": 2,
+    "countryName": "India",
+    "capital": "New Delhi",
+    "population": 1400000000,
+    "interestingFact": "India is home to the world’s largest film industry, Bollywood."
+  },
+  {
+    "id": 3,
+    "countryName": "Canada",
+    "capital": "Ottawa",
+    "population": 39000000,
+    "interestingFact": "Canada has more lakes than any other country—over 2 million!"
+  },
+  {
+    "id": 4,
+    "countryName": "Japan",
+    "capital": "Tokyo",
+    "population": 125000000,
+    "interestingFact": "Tokyo’s Shibuya Crossing is the busiest pedestrian crossing in the world."
+  },
+  {
+    "id": 5,
+    "countryName": "Brazil",
+    "capital": "Brasília",
+    "population": 215000000,
+    "interestingFact": "Brazil shares borders with every South American country except Chile and Ecuador."
+  },
+  {
+    "id": 6,
+    "countryName": "Switzerland",
+    "capital": "Bern",
+    "population": 8900000,
+    "interestingFact": "Switzerland consumes more chocolate per capita than any other country."
+  },
+  {
+    "id": 7,
+    "countryName": "Australia",
+    "capital": "Canberra",
+    "population": 27000000,
+    "interestingFact": "Australia is the only continent without active volcanoes."
+  },
+  {
+    "id": 8,
+    "countryName": "Russia",
+    "capital": "Moscow",
+    "population": 143000000,
+    "interestingFact": "Russia spans 11 time zones, making it the most time-zone-diverse country."
+  },
+  {
+    "id": 9,
+    "countryName": "New Zealand",
+    "capital": "Wellington",
+    "population": 5300000,
+    "interestingFact": "New Zealand was the first country to grant women the right to vote in 1893."
+  },
+  {
+    "id": 10,
+    "countryName": "South Sudan",
+    "capital": "Juba",
+    "population": 11000000,
+    "interestingFact": "South Sudan is the newest country in the world, gaining independence in 2011."
+  },
+  {
+    "id": 11,
+    "countryName": "Guatemala",
+    "capital": "Guatemala City",
+    "population": 18000000,
+    "interestingFact": "Guatemala officially recognizes 23 native languages alongside Spanish."
+  }
+]
